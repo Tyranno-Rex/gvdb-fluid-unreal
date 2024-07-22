@@ -54,3 +54,14 @@ cmake -B ./build -G "Visual Studio 16 2019" -DCUDA_PATH_BUILD="C:/Program Files/
 1. Generate Visual Studio project files (using `UE_GVDB.uproject`)
 2. Open `UE_GVDB.sln`
 3. Build and Launch
+
+
+## Project Crawling
+
+PROJECT_NAME : gvdb-fluid-unreal
+PROJECT_DESCRIPTION : Implement Fluid Simulation (FLIP) on Unreal Engine 5 with NVIDIA GVDB Library. The particles are simulated with a Niagara system. (using Sprite Renderer & Mesh Renderer)
+PROJECT_URL : 'https://github.com/Tyranno-Rex/gvdb-fluid-unreal.git'
+PROJECT_COMPLETION_STATUS : TRUE
+PROJECT_MULTI : FALSE
+PROJECT_SUBPROJECT : NONE
+PROJECT_CATEGORY : 'game&simulation', 'optimization', 'algorithm', 'teamTask', 'graphic'
